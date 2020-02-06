@@ -1,0 +1,15 @@
+Q1. In your own terms, explain the following:
+1.Front-End: Briefly, front-end refers to the client side or the web design in the web industry.
+2. Back-End: Back-end refers to the server side.
+3. Full Stack: The term Full Stack is related to the developer who develops the server software for both client and server.
+4. Digital Marketing: Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising,and any other digital medium.
+
+Q2. List the tools for each of the items above:
+Front-End: Node package manager (Npm) tool, TypeScript, Grunt, Meteor, Git Extensions.
+Back-End: Languages & Frameworks, PHP, Python, Ruby on Rails, Node.js, Laravel, Apache.
+Full Stack: js, Django, Rails, Laravel, and Android SDK
+Digital Marketing: Social media platforms, Design tools, Analytics tools, Content marketing tools, Email marketing tools.
+
+Q3. What's difference between UI and UX:
+UI design refers to the user interface design.It's also how things look, Deliverable
+UX design refers to user experience design. It's also how things work, Process
